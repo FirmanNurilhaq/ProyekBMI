@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"com.kalkulatorbmi","l":"BmiCalculator"},{"p":"com.kalkulatorbmi","l":"ImperialCalculator"},{"p":"com.kalkulatorbmi","l":"Main"},{"p":"com.kalkulatorbmi","l":"MetricCalculator"}];updateSearchResults();
