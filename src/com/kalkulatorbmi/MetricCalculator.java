@@ -5,7 +5,7 @@ package com.kalkulatorbmi;
  * Rumus: berat / (tinggi * tinggi)
  *
  * @see BmiCalculator
- * @author Gemini (ganti dengan nama Anda)
+ * @author FIRMAN NURILHAQ
  */
 public class MetricCalculator implements BmiCalculator {
 

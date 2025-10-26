@@ -6,7 +6,7 @@ package com.kalkulatorbmi;
  * * Setiap kelas implementasi harus menyediakan metode untuk menghitung BMI
  * dan mendapatkan kategori BMI.
  *
- * @author Gemini (ganti dengan nama Anda)
+ * @author FIRMAN NURILHAQ
  * @version 1.0
  */
 public interface BmiCalculator {
